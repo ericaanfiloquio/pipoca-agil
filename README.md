@@ -3,7 +3,7 @@
 
 Pipoca Agil is a project created by Ibson Cabral, which unite professionals who volunteer and, together, simulate Agile Projects using the Scrum methodology.
 
-Nowadays, these projects are focused on Education. In this repository, you will find a WebSite for online free courses on IT field:
+Nowadays, these projects are focused on the Education field. In this repository, you will find a WebSite project for online free courses, subjects:
 
 - Scrum Master
 - QA
